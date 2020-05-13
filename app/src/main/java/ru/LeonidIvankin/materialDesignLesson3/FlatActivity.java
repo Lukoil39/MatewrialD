@@ -1,13 +1,6 @@
 package ru.LeonidIvankin.materialDesignLesson3;
 
-import androidx.appcompat.app.AppCompatActivity;
-import android.os.Bundle;
+import android.app.Activity;
 
-public class FlatActivity extends AppCompatActivity {
-
-    @Override
-    protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_flat);
-    }
+public class FlatActivity extends Activity {
 }
