@@ -22,4 +22,5 @@
         android:gravity="center"
         android:text="Это справка"
         android:textColor="@android:color/white" />
+
 </LinearLayout>
